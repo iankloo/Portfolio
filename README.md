@@ -1,7 +1,7 @@
 # About me
 My name is Ian Kloo and I am a second year PhD student in the Societal Computing Program at Carnegie Mellon University.  I'm focusing my research on disinformation on Telegram, but am exploring broader social cybersecurity issues as well.  
 
-I am a previous Heinz student (MSPPM-POLA 2014) and am excited to get an opportunity to take a course back in the college.  After Heinz, I went into federal service and am currently serving as faculty in the Department of Systems Engineering at West Point.  After finishing my PhD studies, I will return to West Point where I am excited to apply the things that I learn in this course.
+I am a former Heinz student (MSPPM-POLA 2014) and am excited to get an opportunity to take a course back in the college.  After Heinz, I went into federal service and am currently serving as faculty in the Department of Systems Engineering at West Point.  After finishing my PhD studies, I will return to West Point where I am excited to apply the things that I learn in this course.
 
 # What I hope to learn
 I hope to learn how to make more unique and impactful visualizations for peer reviewed posters, conference presentations, and articles.  I've found myself falling into the same (boring) chart types as I write papers and I think I could start to set my work apart if I can get into some more interesting visualizations.  
@@ -15,7 +15,7 @@ As mentioned above, I will return to my job teaching at West Point after I finis
 # Portfolio
 Here are some of the things I have built for this class:
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
