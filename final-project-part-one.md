@@ -49,28 +49,34 @@ I also wanted to show motivation on this plot.  We can see that the user starts 
 
 Here are some initial ideas for visualizations addressing my major sections/ideas listed above:
 
+1. Potential affects of H5N1 on game birds
+The idea here is to depict the large number of game birds that are harvested in PA every year.  The farmed pheasant (stocked) birds will be shown separately from the wild grouse.  H5N1 has 100% fataility rate on farmed birds but is less effective at infecting wild birds, so it will kill fewer of them.  The idea is to get hunters to stop and think, "uh oh, there will be way fewer birds out there."
 
-Number of stocked birds harvested in PA (pheasant)
+![](img/sketch_harvest.jpg)
+
+2. H5N1 human case fatality rate compared to other common viruses
+The idea is to show people how deadly H5N1 was in the 90's compared to other viruses that they typically encounter.
+
+![](img/sketch_cfr.jpg)
+
+3. Map of H5N1 over the last year
+Show how much H5N1 is growing.
+
+![](img/sketch_map.jpg)
+
+4. Potential future timeline of modeled human cases and deaths.
+Here I will show the projected case/death curves compared to what actually happened with COVID-19.
+
+![](img/sketch_future.jpg)
 
 
-Number of at-risk birds harvested in PA (grouse)
+The visualizations presented here are in their early phases of development, but I think they capture a decent diversity of different visualization concepts.  I anticipate making significant improvements - and even changing some of the chart types completley - as I continue to think about this project and receive feedback from others.  These initial ideas are meant to "fail fast" so that I can get to the necessary iteration process.  
 
-
-H5N1 human deaths over time
-
-
-H5N1 bird deaths over time
-
-
-Map of H5N1 evolving over the last year, wild birds and farm birds
-
-
-Future modeled deaths - compared to COVID-19?
 
 
 ## Data
 
-I will need to use a couple of different data sources for this project.  First, I will need to find the data on the historical H5N1 flu to communicate the historical context of this virus (and show how scary it is).  There are quite a few sources on this (listed below).  I also found data on the current H5N1 situation in wild bird populations in the United States.  
+I will need to use a number of different data sources for this project.  First, I will need to find the data on the historical H5N1 flu to communicate the historical context of this virus (and show how scary it is).  There are quite a few sources on this (listed below).  I also found data on the current H5N1 situation in wild bird populations in the United States.  
 
 The future scenario will require some simulation to show a plausible worst-case scenario if things go poorly.  My current plan is to run a SEIR model using an existing web tool like: https://gabgoh.github.io/COVID/index.html.  In a pinch, there are also some R packages that make it fairly easy to run SEIR models and I have a little bit of experience in the domain.
 
@@ -86,6 +92,8 @@ Most (all?) of the hunter information is available at the state level (vice the 
 | HPAI in wild birds     | https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-wild-birds    |  USDA's data on wild bird incidence of HPAI           |
 | Grouse Harvest Data | https://www.pgc.pa.gov/Wildlife/WildlifeSpecies/Documents/Grouse%20and%20Woodcock%20Status%20Report.pdf | Historical grouse harvest data back to 1965 in Pennsylvania | 
 | CDC Historic H5N1 Data | https://www.cdc.gov/flu/avianflu/timeline/avian-timeline-1960-1999.htm | CDC's resources on the history of H5N1 in birds and humans | 
+| Common disease fatality | https://en.wikipedia.org/wiki/List_of_human_disease_case_fatality_rates | Case fatality rates (CFR) for known diseases |
+
 
 ## Method and medium
 
