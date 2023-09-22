@@ -1,36 +1,105 @@
 | [home page](https://iankloo.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Project overview
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+## Concept: bird hunters - our first line of defense against another global pandemic.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+As COVID-19 makes its resurgence this fall, it is important to keep in mind the danger that respiratory viruses can pose.  Many of us recall the H5N1 (bird flu) outbreaks, starting in the mid 1990's and recurring in the early 2000's.  These flu surges might seem inconsequential compared to COVID-19, but that point of view is misguided.  H5N1 had a 50% fatality rate in humans when it first emerged and it upended the poultry industry with a nearly 100% bird fatality rate.  
 
-Text here...
+Unfortunatly, H5N1 is on the rise again in wild bird populations.  And this all comes as bird hunting season is about to open for the fall - dramatically increasing the number of bird-human interactions.  
+
+I am a bird hunter myself and I have not been targeted with any information about H5N1.  At the same time, I receive regular emails with information about CWD (chronic wasting disease) in deer and advice for mitigation strategies.  CWD is critically important, but it has never spread to humans.  At the same time, we have a circulating pathogen that has the demonstrated potential to kill humans at an alarming rate and upend economies by destroying domestic bird populations.  
+
+Fortunately, the livestock industry is actively trying to mitigate risks from H5N1; however, there has been little effort to educate another group that regularly comes into contact with sick birds: hunters.  The goal of my project is to motivate hunters to care about Highly Pathenogenic Avian Influenza (HPAI) - like H5N1 - so that they can take the necessary actions to reduce the risk to humans, livestock, and the domesticly raised and introduced (stocked) birds that are critical for species reintroduction.  Pretending this isn't a problem might work...or we might end up with another, much more deadly, global pandemic.  
+
+## Outline
+
+Here is my general outline for how I will present this story.  The words in brackets are the emotinos I am trying to evoke.
+
+0. **[interested and concerned]** Hook - this is for hunters and it threatens your hobby and your life!
+1. **[inellectually engaged]** History of H5N1 flu 
+    a. Mid 90s outbreak
+        &nbsp;&nbsp;&nbsp;&nbsp; i. Highlight the 50% fatality rate and rapid spread.
+        &nbsp;&nbsp;&nbsp;&nbsp; ii. Highlight how lucky we are that we didn't have a global pandemic.
+    b. Recurrence in 2000's
+        &nbsp;&nbsp;&nbsp;&nbsp; i. Highlight damage to domestic birds
+
+2. **[concerned]** Current state of H5N1 in the bird population
+    a. Highlight rapid growth
+
+3. **[scared]** Projected (scary) future scenarios
+
+4. **[empowered]** What you can do as a hunter
+    a. Protect yourself and your family
+    b. Protect wild birds 
+    c. Contribute to surveillance
+
+The overall emotional story arc will look something like:
+
+![](img/story_arc.jpg)
+
+Looking at emotion first, I expect people will start off somewhat neutral about the whole the issue.  They will quickly become dismayed by the (scary) information that I will present in the first few sections.  By the time I am showing future projections, they should be fully scared.  The last section will try to channel this fear into empowerment, leaving the reader more informed and more likely to act.  Importantly, my goal is not to leave the reader dismayed.  I also am not trying to make the user especially positive about the issue, as this would detract from the motivation (this is a scary thing - people should be cautious but empowered).
+
+I also wanted to show motivation on this plot.  We can see that the user starts with low motivation (as most hunters don't care about this issue).  They increase motivation immediately after learning this is an issue for hunters.  Most of the middle content will not motivate them because it does not provide any recommendations for what to actually do.  In other words, these middle sections are setting up the final section so that the readers care enough to become motivated.  In the end, the reader should be motivated to take action.
+
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Here are some initial ideas for visualizations addressing my major sections/ideas listed above:
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+Number of stocked birds harvested in PA (pheasant)
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+
+Number of at-risk birds harvested in PA (grouse)
+
+
+H5N1 human deaths over time
+
+
+H5N1 bird deaths over time
+
+
+Map of H5N1 evolving over the last year, wild birds and farm birds
+
+
+Future modeled deaths - compared to COVID-19?
+
+
+## Data
+
+I will need to use a couple of different data sources for this project.  First, I will need to find the data on the historical H5N1 flu to communicate the historical context of this virus (and show how scary it is).  There are quite a few sources on this (listed below).  I also found data on the current H5N1 situation in wild bird populations in the United States.  
+
+The future scenario will require some simulation to show a plausible worst-case scenario if things go poorly.  My current plan is to run a SEIR model using an existing web tool like: https://gabgoh.github.io/COVID/index.html.  In a pinch, there are also some R packages that make it fairly easy to run SEIR models and I have a little bit of experience in the domain.
+
+For hunter motivation, one of my main arguments will be that H5N1 poses a risk to the stocked bird populations (as these are technically "domestic" birds that are released as part of reintroduction programs).  In other words, if we start losing birds, we start losing hunting opportunities.  I will list a data source showing the number of birds that are stocked in PA by county.  I may also bring in information about grouse, which have been making a comeback in PA, but could be put at risk if H5N1 takes off.  
+
+Most (all?) of the hunter information is available at the state level (vice the federal level) because each state's department of conservation is different and somewhat isolated.  I may bring in information from neighboring states (e.g., New York), but will probably limit myself to a few states if I reach beyond PA.
+
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|Current H5N1 (CDC)      | https://www.cdc.gov/flu/avianflu/data-map-commercial.html    |  CDC's information on H5N1 in wild and domestic birds           |
+| SEIR Simulator for Pandemics      | https://gabgoh.github.io/COVID/index.html    | A simulator where I can put in the H5N1 parameters to generate likely future scenarios.            |
+| HPAI in wild birds     | https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-wild-birds    |  USDA's data on wild bird incidence of HPAI           |
+| Grouse Harvest Data | https://www.pgc.pa.gov/Wildlife/WildlifeSpecies/Documents/Grouse%20and%20Woodcock%20Status%20Report.pdf | Historical grouse harvest data back to 1965 in Pennsylvania | 
+| CDC Historic H5N1 Data | https://www.cdc.gov/flu/avianflu/timeline/avian-timeline-1960-1999.htm | CDC's resources on the history of H5N1 in birds and humans | 
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+## Method and medium
 
-Text here...
+1. Data capture and manipulation
+
+I will write R or Python scripts that go out to the listed data sources, download the data, and do all necessary pre-processing steps.  I will commend this script heavily and it should provide a fully-reproducable pipeline to recreate my work.
+
+2. Visualization
+
+I have had some luck with Flourish, so I will start there.  Some of my visualization ideas may be difficult (or impossible) to implement on Flourish, so I will also consider using something like D3 to generate more unique plots.  The real challenge will be unifying the aesthetics if I end up generating visualizations on multiple platforms.  I will have to pay close attention to color scales, typefaces, etc. to make sure things look like they came from the same design principles.  
+
+3. Final product
+
+I plan to use Shorthand to put everything together.  I don't have experience with the platform, so I suppose I may run into something that motivates me to switch to an alternative.  I doubt this will be an issue - I will almost definitely end up using Shorthand.
+
+
+
