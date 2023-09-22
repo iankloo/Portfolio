@@ -37,9 +37,7 @@ Here is my general outline for how I will present this story.  The words in brac
 
 The overall emotional story arc will look something like:
 
-![](img/story_arc.jpg)
-
-<img src="img/story_arc.jpg" width="50%"/>
+<img src="img/story_arc.jpg" width="75%"/>
 
 Looking at emotion first, I expect people will start off somewhat neutral about the whole the issue.  They will quickly become dismayed by the (scary) information that I will present in the first few sections.  By the time I am showing future projections, they should be fully scared.  The last section will try to channel this fear into empowerment, leaving the reader more informed and more likely to act.  Importantly, my goal is not to leave the reader dismayed.  I also am not trying to make the user especially positive about the issue, as this would detract from the motivation (this is a scary thing - people should be cautious but empowered).
 
@@ -54,22 +52,25 @@ Here are some initial ideas for visualizations addressing my major sections/idea
 1. Potential affects of H5N1 on game birds
 The idea here is to depict the large number of game birds that are harvested in PA every year.  The farmed pheasant (stocked) birds will be shown separately from the wild grouse.  H5N1 has 100% fataility rate on farmed birds but is less effective at infecting wild birds, so it will kill fewer of them.  The idea is to get hunters to stop and think, "uh oh, there will be way fewer birds out there."
 
-![](img/sketch_harvest.jpg)
+<img src="img/sketch_harvest.jpg" width="75%"/>
+
 
 2. H5N1 human case fatality rate compared to other common viruses
 The idea is to show people how deadly H5N1 was in the 90's compared to other viruses that they typically encounter.
 
-![](img/sketch_cfr.jpg)
+<img src="img/sketch_cfr.jpg" width="75%"/>
+
 
 3. Map of H5N1 over the last year
 Show how much H5N1 is growing.
 
-![](img/sketch_map.jpg)
+<img src="img/sketch_map.jpg" width="75%"/>
+
 
 4. Potential future timeline of modeled human cases and deaths.
 Here I will show the projected case/death curves compared to what actually happened with COVID-19.
 
-![](img/sketch_future.jpg)
+<img src="img/sketch_future.jpg" width="75%"/>
 
 
 The visualizations presented here are in their early phases of development, but I think they capture a decent diversity of different visualization concepts.  I anticipate making significant improvements - and even changing some of the chart types completley - as I continue to think about this project and receive feedback from others.  These initial ideas are meant to "fail fast" so that I can get to the necessary iteration process.  
