@@ -52,11 +52,11 @@ I also wanted to show motivation on this plot.  We can see that the user starts 
 Here are some initial ideas for visualizations addressing my major sections/ideas listed above:
 
 1. Potential affects of H5N1 on game birds
-The idea here is to depict the large number of game birds that are harvested in PA every year.  The farmed pheasant (stocked) birds will be shown separately from the wild grouse.  H5N1 has 100% fataility rate on farmed birds but is less effective at infecting wild birds, so it will kill fewer of them.  The idea is to get hunters to stop and think, "uh oh, there will be way fewer birds out there."
+    The idea here is to depict the large number of game birds that are harvested in PA every year.  The farmed pheasant (stocked) birds will be shown separately from the wild grouse.  H5N1 has 100% fataility rate on farmed birds but is less effective at infecting wild birds, so it will kill fewer of them.  The idea is to get hunters to stop and think, "uh oh, there will be way fewer birds out there."
 
-<p align="center">
-    <img src="img/sketch_harvest.jpg" width="70%"/>
-</p>
+    <p align="center">
+        <img src="img/sketch_harvest.jpg" width="70%"/>
+    </p>
 
 2. H5N1 human case fatality rate compared to other common viruses
 The idea is to show people how deadly H5N1 was in the 90's compared to other viruses that they typically encounter.
