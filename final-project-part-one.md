@@ -59,28 +59,28 @@ Here are some initial ideas for visualizations addressing my major sections/idea
     </p>
 
 2. H5N1 human case fatality rate compared to other common viruses
-The idea is to show people how deadly H5N1 was in the 90's compared to other viruses that they typically encounter.
-
-<p align="center">
-    <img src="img/sketch_cfr.jpg" width="70%"/>
-</p>
-
+    The idea is to show people how deadly H5N1 was in the 90's compared to other viruses that they typically encounter.
+    
+    <p align="center">
+        <img src="img/sketch_cfr.jpg" width="70%"/>
+    </p>
+    
 
 3. Map of H5N1 over the last year
-Show how much H5N1 is growing.
-
-<p align="center">
-    <img src="img/sketch_map.jpg" width="70%"/>
-</p>
+    Show how much H5N1 is growing.
+    
+    <p align="center">
+        <img src="img/sketch_map.jpg" width="70%"/>
+    </p>
 
 
 4. Potential future timeline of modeled human cases and deaths.
-Here I will show the projected case/death curves compared to what actually happened with COVID-19.
-
-<p align="center">
-    <img src="img/sketch_future.jpg" width="70%"/>
-</p>
-
+    Here I will show the projected case/death curves compared to what actually happened with COVID-19.
+    
+    <p align="center">
+        <img src="img/sketch_future.jpg" width="70%"/>
+    </p>
+    
 
 The visualizations presented here are in their early phases of development, but I think they capture a decent diversity of different visualization concepts.  I anticipate making significant improvements - and even changing some of the chart types completley - as I continue to think about this project and receive feedback from others.  These initial ideas are meant to "fail fast" so that I can get to the necessary iteration process.  
 
@@ -111,15 +111,15 @@ Most (all?) of the hunter information is available at the state level (vice the 
 
 1. Data capture and manipulation
 
-I will write R or Python scripts that go out to the listed data sources, download the data, and do all necessary pre-processing steps.  I will commend this script heavily and it should provide a fully-reproducable pipeline to recreate my work.
+    I will write R or Python scripts that go out to the listed data sources, download the data, and do all necessary pre-processing steps.  I will commend this script heavily and it should provide a fully-reproducable pipeline to recreate my work.
 
 2. Visualization
 
-I have had some luck with Flourish, so I will start there.  Some of my visualization ideas may be difficult (or impossible) to implement on Flourish, so I will also consider using something like D3 to generate more unique plots.  The real challenge will be unifying the aesthetics if I end up generating visualizations on multiple platforms.  I will have to pay close attention to color scales, typefaces, etc. to make sure things look like they came from the same design principles.  
+    I have had some luck with Flourish, so I will start there.  Some of my visualization ideas may be difficult (or impossible) to implement on Flourish, so I will also consider using something like D3 to generate more unique plots.  The real challenge will be unifying the aesthetics if I end up generating visualizations on multiple platforms.  I will have to pay close attention to color scales, typefaces, etc. to make sure things look like they came from the same design principles.  
 
 3. Final product
 
-I plan to use Shorthand to put everything together.  I don't have experience with the platform, so I suppose I may run into something that motivates me to switch to an alternative.  I doubt this will be an issue - I will almost definitely end up using Shorthand.
+    I plan to use Shorthand to put everything together.  I don't have experience with the platform, so I suppose I may run into something that motivates me to switch to an alternative.  I doubt this will be an issue - I will almost definitely end up using Shorthand.
 
 
 
