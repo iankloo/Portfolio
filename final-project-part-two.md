@@ -1,30 +1,26 @@
 | [home page](https://iankloo.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+I opted to create my wireframe/storyboard directly in Shorthand: https://carnegiemellon.shorthandstories.com/our-last-defense-against-a-global-pandemic-bird-hunters/index.html.  As it stands, I have the core visualizations, but I plan to add another visualization or two along with some call-out statistics.  I also need to sharpen the language to make sure the story flows correctly. These will all be changes made in Part 3 of the project.
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience is upland bird hunters in Pennsylvania. I have some additional calls to action for bird farmers and policy makers, but these are mostly included to make it clear that there needs to be an effort beyond what hunters can provide alone to solve this problem.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Clearly convey the magnitude of the risk posed by H5N1 to people.|How could H5N1 affect people?|
+|Convey the risks in relation to COVID-19|Compared to COVID-19, how bad would an H5N1 pandemic be?|
+|Clearly convey the magnitude of the risk posed by H5N1 to hunting.|How could H5N1 affect hunting?|
+|Leave the user empowered to affect change.|What can you do as a hunter to mitigate the risks of H5N1?|
+|Give the user enough information to be confident in their understanding of H5N1.|Do you have any remaining questions about H5N1?|
+|Catch any remaining confusion.|Is there anything you are confused about from the presentation?|
+|Find out what could be added in the future.|What are your next questions about H5N1 and hunting?|
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -41,7 +37,6 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
