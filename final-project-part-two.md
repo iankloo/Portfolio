@@ -14,10 +14,9 @@ My target audience is upland bird hunters in Pennsylvania. I have some additiona
 | Goal | Questions to Ask |
 |------|------------------|
 |Convey the magnitude of the risk posed by H5N1 to people.|How could H5N1 affect people?|
-|Convey the risks in relation to COVID-19|Compared to COVID-19, how bad would an H5N1 pandemic be?|
 |Convey the magnitude of the risk posed by H5N1 to hunting.|How could H5N1 affect hunting?|
 |Leave the user empowered to affect change.|What can you do as a hunter to mitigate the risks of H5N1?|
-|Give the user enough information to be confident in their understanding of H5N1.|Do you have any remaining questions about H5N1?|
+|Find out what is being conveyed most effectively.|What is the most memorable part of the presentation?|
 |Catch any remaining confusion.|Is there anything you are confused about from the presentation?|
 |Find out what could be added in the future.|What are your next questions about H5N1 and hunting?|
 
@@ -27,12 +26,14 @@ My target audience is upland bird hunters in Pennsylvania. I have some additiona
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| How could H5N1 affect people? | Insightful feedback            |             |             |
+| How could H5N1 affect hunting?                       |                                |             |             |
+| What can you do as a hunter to mitigate the risks of H5N1?                        |                                |             |             |
+| What is the most memorable part of the presentation?|                       |                                |             |             |
+| Is there anything you are confused about from the presentation?                       |                                |             |             |
+| What are your next questions about H5N1 and hunting?                       |                                |             |             |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
