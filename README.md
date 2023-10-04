@@ -1,3 +1,5 @@
+| [home page](https://iankloo.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # About me
 My name is Ian Kloo and I am a second year PhD student in the Societal Computing Program at Carnegie Mellon University.  I'm focusing my research on disinformation on Telegram, but am exploring broader social cybersecurity issues as well.  
 
