@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-I opted to create my wireframe/storyboard directly in Shorthand: https://carnegiemellon.shorthandstories.com/our-last-defense-against-a-global-pandemic-bird-hunters/index.html.  As it stands, I have the core visualizations, but I plan to add another few visualizations along with some call-out statistics before the final version.  I also need to sharpen the language to make sure the story flows correctly. These will all be changes made in Part 3 of the project.
+I opted to create my wireframe/storyboard directly in Shorthand: https://carnegiemellon.shorthandstories.com/our-last-defense-against-a-global-pandemic-bird-hunters/index.html.  As it stands, I have the core visualizations completed, but I plan to add another few visualizations along with some call-out statistics before the final version.  I also need to sharpen the language to ensure the story flows correctly. These are things I know need to happen in the next phase of the project - but, more importantly, I need to get my current work in front of some potential users and collect their feedback.  The remainder of this page describes my interview protocol, results, and the things I plan to do as a result of this user feedback.
 
 # User research 
 
@@ -13,9 +13,9 @@ I will interview three people: two will be hunters, and one will be a non-hunter
 
 ## Interview script
 
-My interview questions will focus on first making sure that the main points I want to convey are actually coming across.  My Shorthand page is sort of a "minimum viable product" at this stage, meaning I have additional information that I could include if it would be helpful.  My goal for this first pass at Shorthand was to make sure that I was telling the core story and explaining those core points in their full context.  I am hoping the users "get it" so that I can move on and add more information.  If they are unable to answer these questions effectively, I need to refine things before moving on.  
+My interview questions will focus on first making sure that the main points I want to convey are coming across.  My Shorthand page is a "minimum viable product" at this stage, meaning I have additional information that I could include if it would be helpful.  My goal for this first pass at Shorthand was to make sure I was telling the core story and explaining those core points in their full context.  I am hoping the users "get it" so that I can move on and add more information. If they cannot answer these questions effectively, I will refine things before moving on.  
 
-Next, I will shift to some more open-ended questions that will identify any areas of confusion or places where people could benefit from added information or context.  This will help direct which specific pieces of new information I add to the project.    
+Next, I will shift to some more open-ended questions that will identify any areas of confusion or places where people could benefit from added information or context.  This will help direct which pieces of new information I add to the project.    
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -28,13 +28,12 @@ Next, I will shift to some more open-ended questions that will identify any area
 
 
 ## Interview findings
+I interviewed three people for this project:
+- Interview 1 was with a bird hunter with ~10 years of experience.  Male, early 60s.
+- Interview 2 was with an avid hunter who focuses on deer with ~5 years of experience.  Male, 30s.
+- Interview 3 was with a non-hunter with a family full of hunters.  Female, 60s.
 
-Interview 1 was with a bird hunter with ~10 years of experience.  Male, early 60s.  
-
-Interview 2 was with an avid hunter who focuses on deer with ~5 years of experience.  Male, 30s.
-
-Interview 3 was with a non-hunter with a family full of hunters.  Female, 60s.
-
+Notable findings from these interviews are summarized in the table below:
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -46,22 +45,22 @@ Interview 3 was with a non-hunter with a family full of hunters.  Female, 60s.
 | What are your next questions about H5N1 and hunting?|What about turkey? More people hunt turkey in PA than upland birds, so probably want to mention them as well.|Just wanted clarity on the model (we got stuck on this point).|Wanted more specifics in the call to action and possibly some more information about the scale of upland bird hunting in PA (i.e., is this a big deal)?|
 
 # Identified changes for Part III
-1. Fix maps, probably need to rebuild these in something more responsive to mobile...flourish probably.
-2. Fix bird visualization by making it clear this is a projection...maybe do this with animation?
-3. Add to story that culling bird populations could affect poultry, cause problems with world hunger.
-4. Clarify why wild birds are less susceptible to H5N1.
-5. Add more to the call to action to clarify what hunters can/should do.
-6. Describe the model and assumptions better.
 
+Overall, the interviews showed that the users took away the major points, but there were some major issues to work out before the final submission.  The table below summarizes the changes I intend to make:
    
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| The visualizations did not work great on mobile, and the maps were too small even on desktop. | Rebuild the visualizations with mobile in mind.  In particular, I will vertically stack the disease model visualization and maps.  I will also just show two maps: last year and this year. |
-|The bird icon visualization does not make it clear this is a projection.|Provide more surrounding discussion about the assumptions needed in the bird plot.  I will also explore other visualization options that make it very clear we are talking about a projection.  It could easily be interpreted (and was by one interviewee) as just showing the number of birds already harvested this year.|
-|The project fails to mention the risk to chickens and the poultry industry. | Add a new section highlighting the potential economic impacts of H5N1 hitting the chicken population.  Look to the effects of the culling process that happened in China in past years for additional data for a new visualization.  Include information about how this could affect world hunger (big emotional issue to appeal to).|
+| The visualizations did not work great on mobile, and the maps were too small even on desktop. | Rebuild the visualizations with mobile in mind.  In particular, I will vertically stack the disease model visualization and maps.  I will also show two maps: last year and this year. |
+|The bird icon visualization does not clarify this is a projection.|Provide more surrounding discussion about the assumptions needed in the bird plot.  I will also explore other visualization options that clarify that we are talking about a projection.  It could easily be interpreted (and was by one interviewee) as just showing the number of birds already harvested this year.|
+|The project fails to mention the risk to chickens and the poultry industry. | Add a new section highlighting the potential economic impacts of H5N1 hitting the chicken population.  Look to the effects of the culling process in China in past years for additional data for a new visualization.  Include information about how this could affect world hunger (big emotional issue to appeal to).|
 |It is unclear why wild birds are less susceptible to H5N1|Add discussion that makes it clear that H5N1 is equally dangerous to wild (non-farmed) birds like grouse, but these birds are less likely to encounter the virus when compared to farmed birds.|
-|The disease model is too opaque and does not discuss assumptions.| Make explicit mention of the paper used to generate the disease model results and any parameters and assumptions used.  This will mostly be in the form of accompanying text.  All of the interviewees found this visualization impactful as is, so I don't intend to change it much.
+|The disease model is too opaque and does not discuss assumptions.| Explicitly mention the paper used to generate the disease model results and any parameters and assumptions used.  This will mostly be in the form of accompanying text.  All interviewees found this visualization impactful, so I don't intend to change it much.
 |The call to action lacked specifics.|Add more specific things hunters can do.  Consider breaking this out into a page for each user type (hunters, farmers, and policymakers) if this is getting too long-winded for the space provided.|
+
+Most of these problems will be solved by adding text and reworking visualizations to add clarity.  I anticipate major overhauls of the bird icon visualization and the maps, but the others were effective as they are and will only need small modifications.  I will need to add at least one new visualization to address the risk to the poultry industry, and this may need to be in a new section highlighting the economic impacts of H5N1. 
+
+These all seem like manageable changes in the next week, and I am optimistic this project is on track to produce something interesting and useful.  
+
 
 
 
