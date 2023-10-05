@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-I opted to create my wireframe/storyboard directly in Shorthand: https://carnegiemellon.shorthandstories.com/our-last-defense-against-a-global-pandemic-bird-hunters/index.html.  As it stands, I have the core visualizations completed, but I plan to add another few visualizations along with some call-out statistics before the final version.  I also need to sharpen the language to ensure the story flows correctly. These are things I know need to happen in the next phase of the project - but, more importantly, I need to get my current work in front of some potential users and collect their feedback.  The remainder of this page describes my interview protocol, results, and the things I plan to do as a result of this user feedback.
+I opted to create [my wireframe/storyboard](https://carnegiemellon.shorthandstories.com/our-last-defense-against-a-global-pandemic-bird-hunters/index.html) directly in Shorthand.  As it stands, I have the core visualizations completed, but I plan to add another few visualizations along with some call-out statistics before the final version.  I also need to sharpen the language to ensure the story flows correctly. These are things I know need to happen in the next phase of the project - but, more importantly, I need to get my current work in front of some potential users and collect their feedback.  The remainder of this page describes my interview protocol, results, and the things I plan to do as a result of this user feedback.
 
 # User research 
 
